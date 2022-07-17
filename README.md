@@ -1,7 +1,7 @@
 
 <p align="center">
    <br/>
-   <a href="https://next-auth.js.org" target="_blank"><img width="150px" src="https://imgur.com/WSdrE97" /></a>
+   <a href="https://next-auth.js.org" target="_blank"><img width="150px" src="https://i.imgur.com/WSdrE97.png" /></a>
    <h3 align="center">Solana NextAuth.js Example App</h3>
 
 </p>
