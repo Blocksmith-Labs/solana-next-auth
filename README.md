@@ -12,6 +12,8 @@ NextAuth.js is a complete open source authentication solution.
 
 This is an example application to demonstrate how to use [`NextAuth.js`](https://next-auth.js.org) with [`Solana Wallet Adapter`](https://github.com/solana-labs/wallet-adapter) as the Solana sign in option.
 
+Bootstrapped with [`next-auth-example'](https://github.com/nextauthjs/next-auth-example) repository, an adaptation of [`siwe'](https://github.com/spruceid/siwe).
+
 The deployed version can be found at [`solana-next-auth.vercel.app`](https://solana-next-auth.vercel.app)
 
 
@@ -76,13 +78,6 @@ npm run start
 ### 5. Preparing for Production
 
 Follow the [Deployment documentation](https://next-auth.js.org/deployment)
-
-## Acknowledgements
-
-<a href="https://vercel.com?utm_source=nextauthjs&utm_campaign=oss">
-<img width="170px" src="https://raw.githubusercontent.com/nextauthjs/next-auth/canary/www/static/img/powered-by-vercel.svg" alt="Powered By Vercel" />
-</a>
-<p align="left">Thanks to Vercel sponsoring this project by allowing it to be deployed for free for the entire NextAuth.js Team</p>
 
 ## License
 
